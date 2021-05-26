@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.rants.twa",
+                   "sha256_cert_fingerprints": ["27:20:A7:94:75:7A:D8:8C:D5:46:4C:1E:AE:B2:2B:ED:D6:84:82:75:8E:9D:59:D3:68:0C:77:EA:13:B8:D8:1F"] }
+    }]
